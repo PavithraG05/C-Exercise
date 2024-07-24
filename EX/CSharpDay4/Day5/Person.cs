@@ -112,11 +112,11 @@ namespace CSharpDay5.Day5
         public void groupHometown()
         {
             foreach (var line in persn.GroupBy(person => person.Hometown)
-                        .Select(group => new {
-                            Metric = group.Key,
-                            Count = group.Count()
-                        })
-                        .OrderBy(x => x.Metric))
+                                        .Select(group => new {
+                                            Metric = group.Key,
+                                            Count = group.Count()
+                                        })
+                                        .OrderBy(x => x.Metric))
             {
                 Console.WriteLine("{0} {1}", line.Metric, line.Count);
             }
