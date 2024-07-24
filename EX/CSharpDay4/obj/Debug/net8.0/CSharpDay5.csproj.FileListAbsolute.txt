@@ -1,0 +1,15 @@
+D:\Users\pavithra\source\repos\EX\CSharpDay4\bin\Debug\net8.0\CSharpDay5.exe
+D:\Users\pavithra\source\repos\EX\CSharpDay4\bin\Debug\net8.0\CSharpDay5.deps.json
+D:\Users\pavithra\source\repos\EX\CSharpDay4\bin\Debug\net8.0\CSharpDay5.runtimeconfig.json
+D:\Users\pavithra\source\repos\EX\CSharpDay4\bin\Debug\net8.0\CSharpDay5.dll
+D:\Users\pavithra\source\repos\EX\CSharpDay4\bin\Debug\net8.0\CSharpDay5.pdb
+D:\Users\pavithra\source\repos\EX\CSharpDay4\obj\Debug\net8.0\CSharpDay5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\pavithra\source\repos\EX\CSharpDay4\obj\Debug\net8.0\CSharpDay5.AssemblyInfoInputs.cache
+D:\Users\pavithra\source\repos\EX\CSharpDay4\obj\Debug\net8.0\CSharpDay5.AssemblyInfo.cs
+D:\Users\pavithra\source\repos\EX\CSharpDay4\obj\Debug\net8.0\CSharpDay5.csproj.CoreCompileInputs.cache
+D:\Users\pavithra\source\repos\EX\CSharpDay4\obj\Debug\net8.0\CSharpDay5.sourcelink.json
+D:\Users\pavithra\source\repos\EX\CSharpDay4\obj\Debug\net8.0\CSharpDay5.dll
+D:\Users\pavithra\source\repos\EX\CSharpDay4\obj\Debug\net8.0\refint\CSharpDay5.dll
+D:\Users\pavithra\source\repos\EX\CSharpDay4\obj\Debug\net8.0\CSharpDay5.pdb
+D:\Users\pavithra\source\repos\EX\CSharpDay4\obj\Debug\net8.0\CSharpDay5.genruntimeconfig.cache
+D:\Users\pavithra\source\repos\EX\CSharpDay4\obj\Debug\net8.0\ref\CSharpDay5.dll

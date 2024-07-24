@@ -1,0 +1,15 @@
+D:\Users\pavithra\source\repos\EX\Day4Csharp\bin\Debug\net8.0\Day4Csharp.exe
+D:\Users\pavithra\source\repos\EX\Day4Csharp\bin\Debug\net8.0\Day4Csharp.deps.json
+D:\Users\pavithra\source\repos\EX\Day4Csharp\bin\Debug\net8.0\Day4Csharp.runtimeconfig.json
+D:\Users\pavithra\source\repos\EX\Day4Csharp\bin\Debug\net8.0\Day4Csharp.dll
+D:\Users\pavithra\source\repos\EX\Day4Csharp\bin\Debug\net8.0\Day4Csharp.pdb
+D:\Users\pavithra\source\repos\EX\Day4Csharp\obj\Debug\net8.0\Day4Csharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\pavithra\source\repos\EX\Day4Csharp\obj\Debug\net8.0\Day4Csharp.AssemblyInfoInputs.cache
+D:\Users\pavithra\source\repos\EX\Day4Csharp\obj\Debug\net8.0\Day4Csharp.AssemblyInfo.cs
+D:\Users\pavithra\source\repos\EX\Day4Csharp\obj\Debug\net8.0\Day4Csharp.csproj.CoreCompileInputs.cache
+D:\Users\pavithra\source\repos\EX\Day4Csharp\obj\Debug\net8.0\Day4Csharp.sourcelink.json
+D:\Users\pavithra\source\repos\EX\Day4Csharp\obj\Debug\net8.0\Day4Csharp.dll
+D:\Users\pavithra\source\repos\EX\Day4Csharp\obj\Debug\net8.0\refint\Day4Csharp.dll
+D:\Users\pavithra\source\repos\EX\Day4Csharp\obj\Debug\net8.0\Day4Csharp.pdb
+D:\Users\pavithra\source\repos\EX\Day4Csharp\obj\Debug\net8.0\Day4Csharp.genruntimeconfig.cache
+D:\Users\pavithra\source\repos\EX\Day4Csharp\obj\Debug\net8.0\ref\Day4Csharp.dll
