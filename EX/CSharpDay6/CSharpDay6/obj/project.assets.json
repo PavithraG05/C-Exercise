@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\pavithra\\source\\repos\\EX\\Day2Csharp\\CSharpDay2.csproj",
-      "projectName": "CSharpDay2",
-      "projectPath": "D:\\Users\\pavithra\\source\\repos\\EX\\Day2Csharp\\CSharpDay2.csproj",
+      "projectUniqueName": "D:\\Users\\pavithra\\source\\repos\\EX\\CSharpDay6\\CSharpDay6\\CSharpDay6.csproj",
+      "projectName": "CSharpDay6",
+      "projectPath": "D:\\Users\\pavithra\\source\\repos\\EX\\CSharpDay6\\CSharpDay6\\CSharpDay6.csproj",
       "packagesPath": "D:\\Users\\pavithra\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\pavithra\\source\\repos\\EX\\Day2Csharp\\obj\\",
+      "outputPath": "D:\\Users\\pavithra\\source\\repos\\EX\\CSharpDay6\\CSharpDay6\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "D:\\Users\\pavithra\\AppData\\Roaming\\NuGet\\NuGet.Config",
