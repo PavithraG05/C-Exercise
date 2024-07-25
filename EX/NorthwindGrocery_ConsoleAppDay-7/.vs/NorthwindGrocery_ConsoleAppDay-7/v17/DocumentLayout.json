@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\pavithra\\source\\repos\\EX\\NorthwindGrocery_ConsoleAppDay-7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B60CD26A-6C14-43F9-84BA-8885A9C009D1}|NorthwindGrocery_ConsoleAppDay-7\\NorthwindGrocery_ConsoleAppDay-7.csproj|d:\\users\\pavithra\\source\\repos\\ex\\northwindgrocery_consoleappday-7\\northwindgrocery_consoleappday-7\\northwind.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B60CD26A-6C14-43F9-84BA-8885A9C009D1}|NorthwindGrocery_ConsoleAppDay-7\\NorthwindGrocery_ConsoleAppDay-7.csproj|solutionrelative:northwindgrocery_consoleappday-7\\northwind.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B60CD26A-6C14-43F9-84BA-8885A9C009D1}|NorthwindGrocery_ConsoleAppDay-7\\NorthwindGrocery_ConsoleAppDay-7.csproj|d:\\users\\pavithra\\source\\repos\\ex\\northwindgrocery_consoleappday-7\\northwindgrocery_consoleappday-7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B60CD26A-6C14-43F9-84BA-8885A9C009D1}|NorthwindGrocery_ConsoleAppDay-7\\NorthwindGrocery_ConsoleAppDay-7.csproj|solutionrelative:northwindgrocery_consoleappday-7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B60CD26A-6C14-43F9-84BA-8885A9C009D1}|NorthwindGrocery_ConsoleAppDay-7\\NorthwindGrocery_ConsoleAppDay-7.csproj|d:\\users\\pavithra\\source\\repos\\ex\\northwindgrocery_consoleappday-7\\northwindgrocery_consoleappday-7\\northwindgrocery_consoleappday-7.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B60CD26A-6C14-43F9-84BA-8885A9C009D1}|NorthwindGrocery_ConsoleAppDay-7\\NorthwindGrocery_ConsoleAppDay-7.csproj|solutionrelative:northwindgrocery_consoleappday-7\\northwindgrocery_consoleappday-7.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NorthwindGrocery_ConsoleAppDay-7",
+              "DocumentMoniker": "D:\\Users\\pavithra\\source\\repos\\EX\\NorthwindGrocery_ConsoleAppDay-7\\NorthwindGrocery_ConsoleAppDay-7\\NorthwindGrocery_ConsoleAppDay-7.csproj",
+              "RelativeDocumentMoniker": "NorthwindGrocery_ConsoleAppDay-7\\NorthwindGrocery_ConsoleAppDay-7.csproj",
+              "ToolTip": "D:\\Users\\pavithra\\source\\repos\\EX\\NorthwindGrocery_ConsoleAppDay-7\\NorthwindGrocery_ConsoleAppDay-7\\NorthwindGrocery_ConsoleAppDay-7.csproj",
+              "RelativeToolTip": "NorthwindGrocery_ConsoleAppDay-7\\NorthwindGrocery_ConsoleAppDay-7.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-25T12:17:50.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "northwind.cs",
+              "DocumentMoniker": "D:\\Users\\pavithra\\source\\repos\\EX\\NorthwindGrocery_ConsoleAppDay-7\\NorthwindGrocery_ConsoleAppDay-7\\northwind.cs",
+              "RelativeDocumentMoniker": "NorthwindGrocery_ConsoleAppDay-7\\northwind.cs",
+              "ToolTip": "D:\\Users\\pavithra\\source\\repos\\EX\\NorthwindGrocery_ConsoleAppDay-7\\NorthwindGrocery_ConsoleAppDay-7\\northwind.cs",
+              "RelativeToolTip": "NorthwindGrocery_ConsoleAppDay-7\\northwind.cs",
+              "ViewState": "AQIAAEgAAAAAmpmZmRkuwFkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T12:18:07.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\pavithra\\source\\repos\\EX\\NorthwindGrocery_ConsoleAppDay-7\\NorthwindGrocery_ConsoleAppDay-7\\Program.cs",
+              "RelativeDocumentMoniker": "NorthwindGrocery_ConsoleAppDay-7\\Program.cs",
+              "ToolTip": "D:\\Users\\pavithra\\source\\repos\\EX\\NorthwindGrocery_ConsoleAppDay-7\\NorthwindGrocery_ConsoleAppDay-7\\Program.cs",
+              "RelativeToolTip": "NorthwindGrocery_ConsoleAppDay-7\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAFgAAAAADwCIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T12:12:44.718Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
