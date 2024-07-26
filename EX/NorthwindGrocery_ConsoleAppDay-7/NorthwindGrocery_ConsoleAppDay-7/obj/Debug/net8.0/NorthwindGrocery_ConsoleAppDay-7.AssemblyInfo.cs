@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NorthwindGrocery_ConsoleAppDay-7")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df87f557fd7ab71590979cfc19ed69f7e9cee7b2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+181c02ba7a3d44cc5bad19f5875323ceab6a0b78")]
 [assembly: System.Reflection.AssemblyProductAttribute("NorthwindGrocery_ConsoleAppDay-7")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NorthwindGrocery_ConsoleAppDay-7")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

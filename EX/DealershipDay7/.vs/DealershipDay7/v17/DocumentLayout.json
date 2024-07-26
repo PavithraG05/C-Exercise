@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\pavithra\\source\\repos\\EX\\DealershipDay7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B234D520-1C1E-494D-89A9-E43C9313D234}|DealershipDay7\\DealershipDay7.csproj|d:\\users\\pavithra\\source\\repos\\ex\\dealershipday7\\dealershipday7\\dealership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B234D520-1C1E-494D-89A9-E43C9313D234}|DealershipDay7\\DealershipDay7.csproj|solutionrelative:dealershipday7\\dealership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B234D520-1C1E-494D-89A9-E43C9313D234}|DealershipDay7\\DealershipDay7.csproj|d:\\users\\pavithra\\source\\repos\\ex\\dealershipday7\\dealershipday7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B234D520-1C1E-494D-89A9-E43C9313D234}|DealershipDay7\\DealershipDay7.csproj|solutionrelative:dealershipday7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B234D520-1C1E-494D-89A9-E43C9313D234}|DealershipDay7\\DealershipDay7.csproj|d:\\users\\pavithra\\source\\repos\\ex\\dealershipday7\\dealershipday7\\dealershipday7.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B234D520-1C1E-494D-89A9-E43C9313D234}|DealershipDay7\\DealershipDay7.csproj|solutionrelative:dealershipday7\\dealershipday7.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DealershipDay7",
+              "DocumentMoniker": "D:\\Users\\pavithra\\source\\repos\\EX\\DealershipDay7\\DealershipDay7\\DealershipDay7.csproj",
+              "RelativeDocumentMoniker": "DealershipDay7\\DealershipDay7.csproj",
+              "ToolTip": "D:\\Users\\pavithra\\source\\repos\\EX\\DealershipDay7\\DealershipDay7\\DealershipDay7.csproj",
+              "RelativeToolTip": "DealershipDay7\\DealershipDay7.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-26T08:12:07.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dealership.cs",
+              "DocumentMoniker": "D:\\Users\\pavithra\\source\\repos\\EX\\DealershipDay7\\DealershipDay7\\Dealership.cs",
+              "RelativeDocumentMoniker": "DealershipDay7\\Dealership.cs",
+              "ToolTip": "D:\\Users\\pavithra\\source\\repos\\EX\\DealershipDay7\\DealershipDay7\\Dealership.cs",
+              "RelativeToolTip": "DealershipDay7\\Dealership.cs",
+              "ViewState": "AQIAAEgBAAAAiJmZmZkDwFkBAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T08:12:37.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\pavithra\\source\\repos\\EX\\DealershipDay7\\DealershipDay7\\Program.cs",
+              "RelativeDocumentMoniker": "DealershipDay7\\Program.cs",
+              "ToolTip": "D:\\Users\\pavithra\\source\\repos\\EX\\DealershipDay7\\DealershipDay7\\Program.cs",
+              "RelativeToolTip": "DealershipDay7\\Program.cs",
+              "ViewState": "AQIAAEUAAAAA/P///38cwF0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T08:12:02.143Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
