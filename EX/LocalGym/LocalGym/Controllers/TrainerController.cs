@@ -42,7 +42,7 @@ namespace LocalGym.Controllers
         {
             if (!ModelState.IsValid)
             {
-                return BadRequest("Could not add the trainer.");
+                return BadRequest(" not able to add the trainer.");
             }
             else if(ModelState.IsValid)
             {
@@ -55,7 +55,7 @@ namespace LocalGym.Controllers
                     return CreatedAtAction(nameof(GetTrainer), new { id = trainerToReturn.TrainerId }, trainerToReturn);
                 }
             }
-            return BadRequest("Could not add the trainer.");
+            return BadRequest("Not able to add the trainer.");
             
         }
 
@@ -68,12 +68,12 @@ namespace LocalGym.Controllers
                 return BadRequest(ModelState);
             }
 
-            var oldTrainer = await _gymInfoRespository.GetTrainerAsync(id);
-            if (oldTrainer == null)
+            var existingTrainer = await _gymInfoRespository.GetTrainerAsync(id);
+            if (existingTrainer == null)
             {
                 return NotFound();
             }
-            _mapper.Map(trainer, oldTrainer);
+            _mapper.Map(trainer, existingTrainer);
 
 
             if (await _gymInfoRespository.SaveChangesAsync())
