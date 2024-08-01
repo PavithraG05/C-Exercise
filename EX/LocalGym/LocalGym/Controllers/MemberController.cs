@@ -1,11 +1,13 @@
 ﻿using AutoMapper;
 using LocalGym.Models;
 using LocalGym.Services;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace LocalGym.Controllers
 {
     [ApiController]
+    [Authorize]
     [Route("api/gym/members")]
     public class MemberController : ControllerBase
     {

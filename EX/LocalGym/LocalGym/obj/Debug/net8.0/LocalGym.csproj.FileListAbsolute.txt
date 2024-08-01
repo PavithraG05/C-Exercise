@@ -137,3 +137,4 @@ D:\Users\pavithra\source\repos\EX\LocalGym\LocalGym\obj\Debug\net8.0\LocalGym.ge
 D:\Users\pavithra\source\repos\EX\LocalGym\LocalGym\obj\Debug\net8.0\ref\LocalGym.dll
 D:\Users\pavithra\source\repos\EX\LocalGym\LocalGym\bin\Debug\net8.0\AutoMapper.dll
 D:\Users\pavithra\source\repos\EX\LocalGym\LocalGym\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Users\pavithra\source\repos\EX\LocalGym\LocalGym\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

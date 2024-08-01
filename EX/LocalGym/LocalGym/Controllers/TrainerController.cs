@@ -2,11 +2,13 @@
 using LocalGym.Entities;
 using LocalGym.Models;
 using LocalGym.Services;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace LocalGym.Controllers
 {
     [ApiController]
+    [Authorize]
     [Route("api/gym/trainers")]
     public class TrainerController : ControllerBase
     {
@@ -29,28 +31,34 @@ namespace LocalGym.Controllers
         [HttpGet("{id}")]
         public async Task<ActionResult<IEnumerable<TrainerDTO>>> GetTrainer(int id)
         {
+            //when calling repo entity is always passed
             var trainer = await _gymInfoRespository.GetTrainerAsync(id);
             if (trainer == null)
             {
                 return NotFound();
             }
+            //converting entity to model <return type> to send back the model data to user
             return Ok(_mapper.Map<TrainerDTO>(trainer));
 
         }
         [HttpPost]
-        public async Task<IActionResult> AddTrainer(Trainer trainer)
+        public async Task<IActionResult> AddTrainer(TrainerDTO trainer)
         {
+            //getting model data from user
             if (!ModelState.IsValid)
             {
                 return BadRequest(" not able to add the trainer.");
             }
             else if(ModelState.IsValid)
             {
+                //converting model to entity <return type>
                 var trainerEntity = _mapper.Map<Trainer>(trainer);
+                //when calling repo entity is always passed
                 await _gymInfoRespository.AddTrainerAsync(trainerEntity);
 
                 if (await _gymInfoRespository.SaveChangesAsync())
                 {
+                    //converting model to entity
                     var trainerToReturn = _mapper.Map<TrainerDTO>(trainerEntity);
                     return CreatedAtAction(nameof(GetTrainer), new { id = trainerToReturn.TrainerId }, trainerToReturn);
                 }
